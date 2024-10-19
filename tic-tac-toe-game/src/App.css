@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(242, 160, 253);
+  width: auto;
+  height: 100vh;
+}
+
+.board-container{
+  height: 100vh;
+  width: auto;
+  margin: 100px;
+}
+
+.board-row{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 1px solid black;
+}
